@@ -4,7 +4,7 @@
 
 function calculateInvestmentResults() {
   const annualData = [];
-  let investmentValue = initialInvestment;
+  let investmentValue: number = initialInvestment;
 
   for (let i = 0; i < duration; i++) {
     const year = i + 1;
