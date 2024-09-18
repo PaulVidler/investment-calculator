@@ -16,7 +16,7 @@ export class InvestmentResultsComponent {
     annualInvestment: number;
     totalInterest: number;
     totalAmountInvested: number;
-  }[]>(); // using signal
+  }[]>(); // using signal 
 
   // @Input() results?: {
   //   year: number,
