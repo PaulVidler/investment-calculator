@@ -6,3 +6,5 @@ export interface InvestmentInput {
 }
 
 // OR export type InvestmentInput = {
+// OR export type InvestmentInput = {
+// OR export type InvestmentInput = {
