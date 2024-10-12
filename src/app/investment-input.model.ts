@@ -5,6 +5,11 @@ export interface InvestmentInput {
     annualInvestment: number,
 }
 
-// OR export type InvestmentInput = {
-// OR export type InvestmentInput = {
-// OR export type InvestmentInput = {
+export type InvestmentInput2 = {
+    initialInvestment: number,
+    duration: number,
+    expectedReturn: number,
+    annualInvestment: number,
+    independant: boolean,
+    readyToAction: boolean
+}
