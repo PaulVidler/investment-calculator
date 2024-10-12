@@ -26,5 +26,6 @@ export class InvestmentResultsComponent {
   //   totalInterest: number,
   //   totalAmountInvested: number,
   // }[];
+  
 
 }
